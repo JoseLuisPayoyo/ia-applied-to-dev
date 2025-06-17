@@ -18,7 +18,7 @@ Este repositorio explora cómo aprovechar la inteligencia artificial en el día 
 
 ## 🎯 Objetivo
 
-No solo usar la IA como ayuda, sino como una extensión real de tus capacidades como programador: más rápido, más claro, mejor.
+No solo usar la IA como ayuda, sino como una extensión real de mis capacidades como programador: más rápido, más claro, mejor.
 
 ---
 > *La IA no sustituye al programador: lo amplifica.*
